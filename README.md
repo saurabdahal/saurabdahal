@@ -1,6 +1,7 @@
-Hi there, I'm Saurav Dahal! 👋
+### Hi there, 
+# I'm Saurav Dahal! 👋
 
-Senior AWS & Java Developer | Data Engineering Enthusiast
+## Senior AWS & Java Developer | Data Engineering Enthusiast
 
 I am a backend specialist with 5.5+ years of experience building scalable data applications, microservices, and event-driven architectures. My expertise lies in bridging the gap between complex Big Data pipelines and robust Java applications.
 
